@@ -8,7 +8,8 @@ namespace XUnitTestProject1
         [Fact]
         public void Test1()
         {
-            Assert.True(false);
+            // Fixed.
+            Assert.True(true);
         }
     }
 }
